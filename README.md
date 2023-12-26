@@ -21,9 +21,9 @@
 
 ![veetorio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=veetorio&theme=radical&hide_border=false)
 
-
-
 <h3>Projetos</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=blogli&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
