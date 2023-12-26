@@ -15,6 +15,8 @@
 
 <h3>Tecnologias 👨‍💻</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,cs,jsperline=3)](https://skillicons.dev)
+
 
 <h3>Projetos</h3>
 
