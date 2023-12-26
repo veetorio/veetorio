@@ -8,14 +8,19 @@
   <li>Curto escutar música e ler livros</li>
   <li>Curto assistir series</li>
 </ul>
-<h3>Meus stats (👍≖‿‿≖)👍</h3> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veetorio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veetorio&show_icons=true&theme=radical)
-
 <h3>Tecnologias 👨‍💻</h3>
 
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,cs,jsperline=3)](https://skillicons.dev)
+
+<h3>Meus stats (👍≖‿‿≖)👍</h3> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veetorio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veetorio&show_icons=true&theme=radical)
+
+![veetorio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=veetorio&theme=radical&hide_border=false)
+
 
 
 <h3>Projetos</h3>
