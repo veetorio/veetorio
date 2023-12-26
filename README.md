@@ -29,7 +29,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=ProjetoCadastroSpring&theme=radical)](https://github.com/veetorio/ProjetoCadastroSpring?tab=readme-ov-file)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=JPA-desafio&theme=radical)](https://github.com/veetorio/Projetopring?tab=readme-ov-file)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=JPA-desafio&theme=radical)](https://github.com/veetorio/JPA-desafio)
 
 
 
