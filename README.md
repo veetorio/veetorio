@@ -25,7 +25,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=blogli&theme=radical)](https://github.com/veetorio/blogli)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=pokedex&theme=radical)](https://github.com/veetorio/pokedex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=ProjetoCadastroSpring&theme=radical)](https://github.com/veetorio/pokedex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=ProjetoCadastroSpring&theme=radical)](https://github.com/veetorio/ProjetoCadastroSpring?tab=readme-ov-file)
 
 
 
