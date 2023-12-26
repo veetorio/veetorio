@@ -24,6 +24,8 @@
 <h3>Projetos</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=blogli&theme=radical)](https://github.com/veetorio/blogli)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=pokedex&theme=radical)](https://github.com/veetorio/blogli)
+
 
 
 
