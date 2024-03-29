@@ -3,12 +3,6 @@
   
 <h3>Introdução ✍(◔◡◔) </h3>
 <p>Olá novamente, sou desenvolvedor back-end há 1 ano, comecei a estudar programação aos 16 anos onde foi que eu me encontrei dentro do ramo de tecnologia, sempre tive o gosto por aprender sobre algo novo</p>
-<h3>Meus hobbys (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )</h3>
-<ul>
-  <li>Curto escutar música e ler livros</li>
-  <li>Curto assistir series</li>
-</ul>
-<h3>Tecnologias 👨‍💻</h3>
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,cs,jsperline=3)](https://skillicons.dev)
