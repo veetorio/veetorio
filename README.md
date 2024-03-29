@@ -2,7 +2,7 @@
 <h1>Olá me chamo Vitorio  ✌️__(─‿‿─)__✌️</h1>
   
 <h3>Introdução ✍(◔◡◔) </h3>
-<p>Olá novamente, sou desenvolvedor back-end há 1 ano, comecei a estudar programação aos 16 anos onde foi que eu me encontrei dentro do ramo de tecnologia, sempre tive o gosto por aprender sobre algo novo</p>
+<p>Olá novamente, sou desenvolvedor back-end há 1 ano, comecei a estudar programação aos 15 anos onde foi que eu me encontrei dentro do ramo de tecnologia, sempre tive o gosto por aprender sobre algo novo</p>
 <h3>Tecnologias 👨‍💻</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,cs,js,perline=3)](https://skillicons.dev)
