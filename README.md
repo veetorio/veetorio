@@ -20,7 +20,7 @@
 
 <h3>Projetos</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=blogli&theme=radical)](https://github.com/veetorio/salf-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=blogli&theme=radical)](https://github.com/veetorio/salf-front-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=pokedex&theme=radical)](https://github.com/veetorio/pollen-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=ProjetoCadastroSpring&theme=radical)](https://github.com/veetorio/ProjetoCadastroSpring?tab=readme-ov-file)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veetorio&repo=JPA-desafio&theme=radical)](https://github.com/veetorio/JPA-desafio)
