@@ -37,6 +37,8 @@ Aqui está como distribuo meu ecossistema técnico e o meu ritmo de desenvolvime
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
         <img src="https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
       </p>
       <h3>📊 Dados & ETL (Foco Atual)</h3>
       <p>
@@ -54,14 +56,14 @@ Aqui está como distribuo meu ecossistema técnico e o meu ritmo de desenvolvime
 </table>
 
 ---
-<a href="mailto:seuemail@gmail.com">
+<a href="devjaveiro88@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="mailto:seuemail@gmail.com">
+<a href="https://www.linkedin.com/in/ettore-vitorio-b38135280/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:seuemail@gmail.com">
+<a href="https://wa.me/991817952">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
