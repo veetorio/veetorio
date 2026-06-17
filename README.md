@@ -56,7 +56,6 @@ Aqui está como distribuo meu ecossistema técnico e o meu ritmo de desenvolvime
 </table>
 
 ## 📞 Entre em contato
----
 <a href="mailto:devjaveiro88@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
