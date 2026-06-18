@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%9A%80+Turning+curiosity+into+code+and+ideas+into+solutions.;%F0%9F%8E%93+Learning+like+a+researcher%2C+building+like+a+developer.;%F0%9F%8C%B1+Continuously+learning%2C+building%2C+and+improving+through+technology.;%E2%9A%A1+Software+engineering+enthusiast+focused+on+creating+meaningful+and+scalable+solutions.;%F0%9F%94%8D+analyze%2C+plan%2C+and+execute)](https://git.io/typing-svg)
-# 🚀 Olá, eu sou Ettore Vitorio!
+# 🖐️ Olá, eu sou Ettore Vitorio!
 ```txt
 @@ Ettore Vitorio Correa Silva 🚀 @@
 @@ Back-end Developer | Software Engineering Enthusiast @@
