@@ -26,7 +26,7 @@ Desenvolvedor Back-end com experiência em React e integração de APIs REST.
 </td>
 <td width="25%" align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/858.png" width="200"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/858.png" width="200"/>
 
 </td>
 </tr>
