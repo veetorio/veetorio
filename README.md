@@ -31,7 +31,9 @@ Desenvolvedor Back-end com experiência em React e integração de APIs REST.
 </td>
 </tr>
 </table>
+
 ---
+
 ## 🛠️ Tecnologias & Status
 
 Aqui está como distribuo meu ecossistema técnico e o meu ritmo de desenvolvimento atual:
